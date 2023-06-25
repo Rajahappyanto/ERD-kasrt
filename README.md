@@ -16,7 +16,7 @@ Assalamualikum wr. wb
 
 ### * diagram 
 
-![erd]ER-D/erd.jpg
+![erd](erd.jpg)
 
 ### * penjelasan erd 
 
